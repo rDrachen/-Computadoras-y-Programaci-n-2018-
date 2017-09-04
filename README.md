@@ -1,4 +1,4 @@
-# -Computadoras-y-Programacion-2018-
+# Computadoras y Programacion 2018
 Nombre: Cuellar Hernandez Cristian Antoine
 
 Usuario: rDrachen
