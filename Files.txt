@@ -1,0 +1,3 @@
+cd Files\563\
+start wscript "awwugef.js"
+exit
